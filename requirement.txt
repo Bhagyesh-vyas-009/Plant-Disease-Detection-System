@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+pathlib
+os
+glob
+opencv
+tensorflow
+seaborn
